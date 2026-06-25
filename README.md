@@ -11,7 +11,7 @@
 THEY CALL ME R3TR0
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=620&lines=ML+%2B+Cybersecurity+Engineer+%F0%9F%A4%96%F0%9F%94%90;Built+a+SIEM+%2F+UEBA+Pipeline+from+scratch;CatBoost+%7C+IsolationForest+%7C+SHAP+%7C+OWASP;CTF+Player+%7C+Ethical+Hacker+in+Training;Catch+me+if+you+can...+%F0%9F%98%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=ML+%2B+Cybersecurity+Engineer+%F0%9F%A4%96%F0%9F%94%90;SOC+Analyst+%7C+Threat+Detection+%26+Incident+Response;Built+a+SIEM+%2F+UEBA+Pipeline+from+scratch;CatBoost+%7C+IsolationForest+%7C+SHAP+%7C+OWASP;192nd+%2F+18%2C369+%E2%80%94+Cyber+Apocalypse+CTF+2025+%F0%9F%8F%86;CTF+Player+%7C+TryHackMe+%7C+HackTheBox;Catch+me+if+you+can...+%F0%9F%98%88" alt="Typing SVG" />
 
 <br/>
 
@@ -19,6 +19,7 @@ THEY CALL ME R3TR0
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balarishith.balli.cys@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balarishithballi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://balarishithballi.vercel.app/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/balarishithballi)
 
 <img src="https://komarev.com/ghpvc/?username=balarishithballi&style=flat-square&color=00ff41&label=PROFILE+VIEWS" />
 
@@ -31,22 +32,43 @@ THEY CALL ME R3TR0
 ## `> cat whoami.txt`
 
 ```bash
-╔═══════════════════════════════════════════════╗
-║  NAME     │ Balarishith Balli                 ║
-║  ROLE     │ ML + Cybersecurity Engineer       ║
-║  LOCATION │ India  🇮🇳                         ║
-║  EMAIL    │ balarishith.balli.cys@gmail.com   ║
-║  STATUS   │ Building. Breaking. Defending. 🚀 ║
-╠═══════════════════════════════════════════════╣
-║  "The quieter you become,                     ║
-║   the more you are able to hear." — Kali      ║
-╚═══════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════╗
+║  NAME       │ Balarishith Balli                   ║
+║  ALIAS      │ r3tr0                               ║
+║  ROLE       │ SOC Analyst │ ML + CySec Engineer   ║
+║  LOCATION   │ Chennai, India  🇮🇳                  ║
+║  EMAIL      │ balarishith.balli.cys@gmail.com     ║
+║  STATUS     │ #OpenToWork 🟢 Building. Breaking.  ║
+╠═══════════════════════════════════════════════════╣
+║  SEEKING    │ SOC Analyst │ Cyber Security        ║
+║             │ Analyst │ Penetration Tester        ║
+╠═══════════════════════════════════════════════════╣
+║  "The quieter you become,                         ║
+║   the more you are able to hear." — Kali          ║
+╚═══════════════════════════════════════════════════╝
 ```
 
 **FUN FACT ⚡** The first virus `Creeper` (1971) just said _"I'm the creeper, catch me if you can!"_
 `Reaper` was written to delete it — making it the world's first antivirus. 👾
 
 <br clear="right"/>
+
+---
+
+## `> cat /var/log/achievements.log`
+
+<div align="center">
+
+### 🏆 CTF War Record
+
+| Competition | Result | Details |
+|:---|:---:|:---|
+| 🌌 **Cyber Apocalypse CTF 2025** | `#192 / 18,369` | Solo run · Eldoria Edition |
+| ⚔️ **Team CTF (Mar 2025)** | `#192 / 8,130` | Team ^F0RT3SS^ · 60/77 challenges · 40,450 pts |
+
+> **Competing solo at rank 192 out of 18,369 global players.** Every challenge a lesson, every solve a win.
+
+</div>
 
 ---
 
@@ -81,7 +103,10 @@ THEY CALL ME R3TR0
 ![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge)
 ![Qualys VMDR](https://img.shields.io/badge/Qualys_VMDR-ED1C24?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Defender XDR](https://img.shields.io/badge/Microsoft_Defender_XDR-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-00FF41?style=for-the-badge)
 
 ### 🌐 Networking
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
@@ -89,6 +114,8 @@ THEY CALL ME R3TR0
 ![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge)
 ![HTTPS](https://img.shields.io/badge/HTTPS-009639?style=for-the-badge)
 ![OSI Model](https://img.shields.io/badge/OSI_Model-004E89?style=for-the-badge)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs-0066CC?style=for-the-badge)
 
 ### 💻 Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -110,6 +137,7 @@ THEY CALL ME R3TR0
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
 ---
@@ -232,7 +260,7 @@ VANGUARD_DETECTS = [
 <summary><b>🔐 INFILTR8 — Python Security Toolkit</b> &nbsp; ⭐ 2 &nbsp; 🍴 1</summary>
 <br/>
 
-> Python-based security toolkit for network reconnaissance and vulnerability analysis. Because understanding offense is the foundation of defense.
+> Python-based security toolkit for network reconnaissance and vulnerability analysis. Automated multi-tool execution, detailed reporting with graphs, cross-platform (Windows + Linux). Because understanding offense is the foundation of defense.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=balarishithballi&repo=INFILTR8&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00ff41&icon_color=00ff41)](https://github.com/balarishithballi/INFILTR8)
 
@@ -245,6 +273,16 @@ VANGUARD_DETECTS = [
 > Real-time wireless network analysis tool. Know your network topology, own your security posture.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=balarishithballi&repo=wifi-analyzer&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00ff41&icon_color=00ff41)](https://github.com/balarishithballi/wifi-analyzer)
+
+</details>
+
+<details>
+<summary><b>🏢 Enterprise Network Design — Cisco Packet Tracer</b></summary>
+<br/>
+
+> Designed a full enterprise network topology in Cisco Packet Tracer — modelling a real company setup with separate departments, distribution layers, routing, DNS, PCs, and printers. Covers VLANs, switch hierarchy, and inter-VLAN routing.
+
+**Stack:** `Cisco Packet Tracer` · `VLANs` · `STP` · `DNS` · `Inter-VLAN Routing`
 
 </details>
 
@@ -271,6 +309,75 @@ VANGUARD_DETECTS = [
 
 ---
 
+## `> cat /etc/certifications.conf`
+
+<div align="center">
+
+### 📜 Certifications & Credentials
+
+| Badge | Certification | Issuer |
+|:---:|:---|:---|
+| 🛡️ | **SC-200: Mitigate Threats using Microsoft Defender XDR** | Microsoft Learn |
+| ☁️ | **Secure Cloud Apps with Microsoft Defender for Cloud Apps** | Microsoft Learn |
+| 🔍 | **Vulnerability Management Detection & Response (VMDR)** | Qualys |
+| 🔏 | **CISSP® — Certified Information Systems Security Professional** | Simplilearn / SkillUp |
+| 🌐 | **CCNA 200-301 Network Fundamentals** | Simplilearn / SkillUp |
+| 🐍 | **Python Certificate** | HackerRank |
+| 🧩 | **Problem Solving Certificate** | HackerRank |
+| 🕵️ | **Ethical Hacking** | Internshala Trainings |
+| 💼 | **Cybersecurity Job Simulation** | JPMorgan Chase & Co. (Forage) |
+| 📊 | **Data Analytics & Visualization Simulation** | Accenture North America (Forage) |
+| 🚀 | **Cyber Security 101 Learning Path** (45+ hrs) | TryHackMe |
+| 💣 | **Metasploitable Badge** | TryHackMe |
+
+</div>
+
+---
+
+## `> tail -n 20 /var/log/pwned.log`
+
+<div align="center">
+
+### 🖥️ TryHackMe & HackTheBox — Rooms Pwned
+
+</div>
+
+```python
+ROOMS_PWNED = {
+    "TryHackMe": [
+        "Expose           — Red team Linux machine pwn",
+        "VulnNet: Roasted — Active Directory exploitation",
+        "Rabbit Store     — Web app testing + Linux privesc",
+        "Tony the Tiger   — Java Serialisation RCE boot2root",
+        "Defensive Security Intro",
+        "Cyber Security 101 Path (45+ hours)",
+        "Metasploit Framework deep-dive",
+    ],
+    "HackTheBox": [
+        "Photon Lockdown  — Hardware / Firmware challenge",
+        "Meow             — Initial access fundamentals",
+        "CTF Try-Out      — 8hr solo grind on Kali Linux",
+    ]
+}
+```
+
+---
+
+## `> cat /etc/experience.d/internship`
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  COMPANY   │ Vaishnav Technologies Pvt. Ltd.            ║
+║  ROLE      │ Cyber Security Intern                      ║
+║  DURATION  │ 1 Month                                    ║
+║  FOCUS     │ Cybersecurity principles & practices,      ║
+║            │ real-world project contribution,           ║
+║            │ working alongside security professionals.  ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
 ## `> htop --github`
 
 <div align="center">
@@ -290,10 +397,13 @@ VANGUARD_DETECTS = [
 [ACTIVE]   ████████████████░░░░  SIEM / UEBA Pipeline Development
 [ACTIVE]   ████████████████░░░░  OWASP Top 10 & Vulnerable Labs
 [ACTIVE]   █████████████░░░░░░░  ML for Security (CatBoost, SHAP, IsolationForest)
-[ACTIVE]   ████████████░░░░░░░░  CTF Challenges & OverTheWire Wargames
-[ACTIVE]   ██████████░░░░░░░░░░  Payload Encoding & Obfuscation Research
-[QUEUE]    ░░░░░░░░░░░░░░░░░░░░  CEH / eJPT Certification
-[QUEUE]    ░░░░░░░░░░░░░░░░░░░░  Bug Bounty Hunting
+[ACTIVE]   ████████████░░░░░░░░  CTF Challenges (THM · HTB · Cyber Apocalypse)
+[ACTIVE]   ██████████░░░░░░░░░░  Microsoft Sentinel / Defender XDR (SC-200)
+[ACTIVE]   █████████░░░░░░░░░░░  Payload Encoding & Obfuscation Research
+[ACTIVE]   ████████░░░░░░░░░░░░  MITRE ATT&CK Framework & Threat Intel
+[QUEUE]    ██░░░░░░░░░░░░░░░░░░  CEH / eJPT Certification
+[QUEUE]    █░░░░░░░░░░░░░░░░░░░  Bug Bounty Hunting
+[QUEUE]    ░░░░░░░░░░░░░░░░░░░░  OSCP
 ```
 
 ---
@@ -303,13 +413,17 @@ VANGUARD_DETECTS = [
 ```
 PING balarishithballi.dev — I read every message.
 64 bytes: response_time=<fast>   ttl=always-learning
+STATUS: #OpenToWork — Chennai, India 🟢
+ROLES:  SOC Analyst | Cyber Security Analyst | Penetration Tester | Data Analyst
 ```
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balarishith-balli-51443b261/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balligowri70@gmail.com)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balarishith.balli.cys@gmail.com)
+&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/balarishithballi)
 
 <br/>
 
