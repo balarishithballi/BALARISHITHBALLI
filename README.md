@@ -9,131 +9,164 @@
 ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;Python+Developer;Defender+of+the+Digital+Realm" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=550&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacker+in+Training+%E2%9A%A1;Python+Security+Developer+%F0%9F%90%8D;Network+Defender+%F0%9F%9B%A1%EF%B8%8F;Catch+me+if+you+can...+%F0%9F%98%88" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balarishith-balli-51443b261/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balarishithballi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balligowri70@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balarishith-balli-51443b261/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balligowri70@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balarishithballi)
+
+<img src="https://komarev.com/ghpvc/?username=balarishithballi&style=flat-square&color=00ff41&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## `> whoami`
+<img align="right" alt="Hacking GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## `> cat whoami.txt`
 
 ```bash
-$ cat /etc/profile.d/balarishith.sh
-
-  NAME     : Balarishith Balli
-  ROLE     : Cybersecurity Enthusiast & Developer
-  LOCATION : India
-  FOCUS    : Ethical Hacking | Network Security | Python Tooling
-  STATUS   : Currently learning & building...
-  FUN FACT : The first virus "Creeper" wasn't even malicious — it just
-             said "I'm the creeper, catch me if you can!" 🕵️
+╔══════════════════════════════════════════╗
+║  NAME     │ Balarishith Balli            ║
+║  ROLE     │ Cybersecurity Enthusiast     ║
+║  LOCATION │ India  🇮🇳                   ║
+║  EMAIL    │ balligowri70@gmail.com       ║
+║  STATUS   │ Learning & Building 🚀       ║
+╠══════════════════════════════════════════╣
+║  "In a world full of Creepers,           ║
+║   be the Reaper." 🛡️                    ║
+╚══════════════════════════════════════════╝
 ```
+
+**FUN FACT:** The first computer virus, `Creeper` (1971), wasn't even malicious.
+It just printed _"I'm the creeper, catch me if you can!"_ 👾
+The `Reaper` program was written to delete it — making it the first antivirus ever.
+
+<br clear="right"/>
 
 ---
 
-## `> ls -la /skills`
+## `> ls /skills --verbose`
 
 <div align="center">
 
-| Security | Development | Tools |
-|:---:|:---:|:---:|
-| ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Network Security](https://img.shields.io/badge/Network_Security-00FF41?style=flat-square&logoColor=black) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+### 🔐 Security Arsenal
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+### 💻 Development Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🛠️ Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 </div>
 
 ---
 
-## `> cat /projects/pinned.txt`
+## `> cat /projects/featured.json`
+
+<details>
+<summary><b>🔐 INFILTR8 — Python Security Toolkit</b> &nbsp; ⭐ 2 &nbsp; 🍴 1</summary>
+<br/>
+
+> A Python-based security toolkit for network reconnaissance and vulnerability analysis.
+> Because understanding offense is the foundation of defense.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=balarishithballi&repo=INFILTR8&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00ff41&icon_color=00ff41)](https://github.com/balarishithballi/INFILTR8)
+
+</details>
+
+<details>
+<summary><b>📡 WiFi Analyzer — Network Intel Tool</b></summary>
+<br/>
+
+> Real-time wireless network analysis. Know your environment, own your security posture.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=balarishithballi&repo=wifi-analyzer&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00ff41&icon_color=00ff41)](https://github.com/balarishithballi/wifi-analyzer)
+
+</details>
+
+<details>
+<summary><b>📊 Reporting Tool — Automated Documentation</b></summary>
+<br/>
+
+> Automated security reporting pipeline. Because documentation is as important as the findings.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=balarishithballi&repo=reportingtool&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00ff41&icon_color=00ff41)](https://github.com/balarishithballi/reportingtool)
+
+</details>
+
+<details>
+<summary><b>🎮 Super Mario Lite — Python Game Dev</b></summary>
+<br/>
+
+> Proof that security folks know how to have fun — a full Mario-style game in Python.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=balarishithballi&repo=SUPERMARIO-LITE-&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00ff41&icon_color=00ff41)](https://github.com/balarishithballi/SUPERMARIO-LITE-)
+
+</details>
+
+---
+
+## `> htop --github`
 
 <div align="center">
 
-### 🔐 [INFILTR8](https://github.com/balarishithballi/INFILTR8)
-> A Python-based security tool — because defense requires knowing how offense thinks.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=balarishithballi&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=balarishithballi&theme=github-dark-blue&background=0d1117&border=21262d&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=8b949e" />
 
-[![Stars](https://img.shields.io/github/stars/balarishithballi/INFILTR8?style=flat-square&color=00FF41)](https://github.com/balarishithballi/INFILTR8/stargazers)
-[![Forks](https://img.shields.io/github/forks/balarishithballi/INFILTR8?style=flat-square&color=00FF41)](https://github.com/balarishithballi/INFILTR8/network/members)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-### 📡 [WiFi Analyzer](https://github.com/balarishithballi/wifi-analyzer)
-> Network analysis tool built with Python. Know your network, own your security.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-### 🎮 [Super Mario Lite](https://github.com/balarishithballi/SUPERMARIO-LITE-)
-> Proof that security folks know how to have fun too.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-### 📊 [Reporting Tool](https://github.com/balarishithballi/reportingtool)
-> Because documentation is just as important as the hack.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balarishithballi&layout=donut&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00ff41&text_color=c9d1d9&hide_border=false" />
 
 </div>
 
 ---
 
-## `> htop --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=balarishithballi&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=balarishithballi&theme=matrix&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balarishithballi&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" alt="Top Languages" />
-
-</div>
-
----
-
-## `> grep -r "learning" /current`
+## `> tail -f /var/log/learning.log`
 
 ```
-🔍 Penetration Testing Methodologies
-🛡️  Web Application Security (OWASP Top 10)
-🌐  Network Forensics & Analysis
-🐍  Advanced Python for Security Automation
-🔐  Cryptography & Secure Protocols
+[ACTIVE]   ████████████████░░░░  Penetration Testing Methodologies
+[ACTIVE]   █████████████░░░░░░░  Web App Security (OWASP Top 10)
+[ACTIVE]   ██████████████████░░  Python Security Automation
+[ACTIVE]   ████████████░░░░░░░░  Network Forensics & Analysis
+[QUEUE]    ░░░░░░░░░░░░░░░░░░░░  CEH Certification
+[QUEUE]    ░░░░░░░░░░░░░░░░░░░░  Bug Bounty Hunting
 ```
 
 ---
 
-## `> ping balarishithballi`
+## `> ping -c 1 balarishithballi`
 
 ```
-PING balarishithballi — I read every message.
-64 bytes: response_time=fast  ttl=always
+PING balarishithballi.dev
+64 bytes: response_time=<fast>   ttl=always-learning
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balarishith-balli-51443b261/)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balligowri70@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balarishith-balli-51443b261/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balligowri70@gmail.com)
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=balarishithballi&style=flat-square&color=00FF41&label=PROFILE+VIEWS)
-
-<br/>
-
-*"In a world full of Creepers, be the Reaper."* 🛡️
-
-</div>
-
 ---
-<div align="center">
-<sub>Made with 💚 and a healthy dose of paranoia</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer&fontColor=00ff41" width="100%"/>
+
+<sub>
+  <code>// crafted with 💚 and a healthy dose of paranoia</code><br/>
+  <code>// "The quieter you become, the more you are able to hear." — Kali Linux</code>
+</sub>
+
 </div>
