@@ -7,6 +7,8 @@
 ██╔══██╗██╔══██║██║     ██╔══██║██╔══██╗██║╚════██║██╔══██║██║   ██║   ██╔══██║
 ██████╔╝██║  ██║███████╗██║  ██║██║  ██║██║███████║██║  ██║██║   ██║   ██║  ██║
 ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+
+THEY CALL ME R3TR0
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=620&lines=ML+%2B+Cybersecurity+Engineer+%F0%9F%A4%96%F0%9F%94%90;Built+a+SIEM+%2F+UEBA+Pipeline+from+scratch;CatBoost+%7C+IsolationForest+%7C+SHAP+%7C+OWASP;CTF+Player+%7C+Ethical+Hacker+in+Training;Catch+me+if+you+can...+%F0%9F%98%88" alt="Typing SVG" />
@@ -14,9 +16,9 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balarishith-balli-51443b261/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balligowri70@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balarishith.balli.cys@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balarishithballi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://github.com/balarishithballi/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://balarishithballi.vercel.app/)
 
 <img src="https://komarev.com/ghpvc/?username=balarishithballi&style=flat-square&color=00ff41&label=PROFILE+VIEWS" />
 
@@ -32,8 +34,8 @@
 ╔═══════════════════════════════════════════════╗
 ║  NAME     │ Balarishith Balli                 ║
 ║  ROLE     │ ML + Cybersecurity Engineer       ║
-║  LOCATION │ India  🇮🇳                        ║
-║  EMAIL    │ balligowri70@gmail.com            ║
+║  LOCATION │ India  🇮🇳                         ║
+║  EMAIL    │ balarishith.balli.cys@gmail.com   ║
 ║  STATUS   │ Building. Breaking. Defending. 🚀 ║
 ╠═══════════════════════════════════════════════╣
 ║  "The quieter you become,                     ║
